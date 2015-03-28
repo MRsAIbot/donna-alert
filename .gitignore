@@ -1,3 +1,9 @@
+# IPython notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm files
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
