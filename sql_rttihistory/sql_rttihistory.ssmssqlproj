@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="sql_rttihistory">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="CHARLES_MBPWIN8:CHARLES_MBPWIN8\charles">
+          <Created>2015-03-28T15:17:37.7850116+00:00</Created>
+          <Type>SQL</Type>
+          <Server>CHARLES_MBPWIN8</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>RTTIHistoryECV</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="delay_output.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CHARLES_MBPWIN8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CHARLES_MBPWIN8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>delay_output.sql</FullPath>
+        </FileNode>
+        <FileNode Name="forecast.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CHARLES_MBPWIN8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CHARLES_MBPWIN8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>forecast.sql</FullPath>
+        </FileNode>
+        <FileNode Name="forecast_reasons.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CHARLES_MBPWIN8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CHARLES_MBPWIN8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>forecast_reasons.sql</FullPath>
+        </FileNode>
+        <FileNode Name="forecast_schedulelocations.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CHARLES_MBPWIN8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CHARLES_MBPWIN8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>forecast_schedulelocations.sql</FullPath>
+        </FileNode>
+        <FileNode Name="locations.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CHARLES_MBPWIN8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CHARLES_MBPWIN8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>locations.sql</FullPath>
+        </FileNode>
+        <FileNode Name="schedulelocations.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CHARLES_MBPWIN8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CHARLES_MBPWIN8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>schedulelocations.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
